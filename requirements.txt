@@ -6,3 +6,4 @@ langchain-openai
 langchain-community
 langchain-chroma
 langchain-core
+sqlite3 >= 3.35.0
