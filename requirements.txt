@@ -2,3 +2,7 @@ supabase
 streamlit
 langchain
 langchain-voyageai
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-core
